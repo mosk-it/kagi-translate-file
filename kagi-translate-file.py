@@ -19,7 +19,7 @@ Options:
   --verbose                    Show detailed progress
 
 Example:
-  translate.py --to=Polish --token=kagi_abc123 --workers=5 input.txt output.txt 
+  translate.py --to=Polish --token=<your_token_here> --workers=5 input.txt output.txt 
 """
 
 import os
