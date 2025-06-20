@@ -1,3 +1,5 @@
+EDIT: KAGI API CHANGED, IT MIGHT NOT WORK
+
 Kagi Text File Translation Script
 
 Chops up text files, sends them to Kagi's translation API, and stitches the results back together.
